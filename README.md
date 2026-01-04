@@ -1,4 +1,4 @@
-# ICPC-Regional-INC
+# ICPC-Regional-INC 2025
 Prob I:
 You are given a land grid of size N x M, which consists of two types of cells: water pools (.) and land (#). The goal of this problem is to check whether the pools formed (connected components of water) maintain a rectangular shape after each change in the grid.
 Rectangular Pool Rule:
