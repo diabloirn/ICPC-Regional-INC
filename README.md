@@ -6,3 +6,4 @@ Rectangular Pool Rule:
 2. After each change (where one cell changes from . to # or vice versa), we need to check if all existing pools still maintain their rectangular shape.
 
 Prob: A, E, F, K using Kotlin
+Prob: C using Python
